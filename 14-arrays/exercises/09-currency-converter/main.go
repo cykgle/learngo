@@ -42,7 +42,7 @@ package main
 //   go run main.go 1
 //     1.00 USD is 0.88 EUR
 //     1.00 USD is 0.78 GBP
-//     1.00 USD is 113.02 JPY
+//     1.00 USD is 113.02-write-your-first-program JPY
 // ---------------------------------------------------------
 
 func main() {

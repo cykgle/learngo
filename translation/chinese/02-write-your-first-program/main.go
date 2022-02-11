@@ -53,7 +53,7 @@ func main() {
 	//
 	// 因为: 字面值 ~= 源代码
 
-	// 练习: 删除下行注释的 --> //
+	// exercises: 删除下行注释的 --> //
 	// fmt.Println("Merhaba Köstebek!")
 
 	// 不重要的注释:

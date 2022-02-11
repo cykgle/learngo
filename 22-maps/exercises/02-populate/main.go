@@ -41,7 +41,7 @@ package main
 //  3. Multiple phone numbers by last name
 //     ------------------------------------------------------
 //     bowen  [202-555-0179]
-//     dulin  [03.37.77.63.06 03.37.70.50.05 02.20.40.10.04]
+//     dulin  [03.37.77.63.06 03.37.70.50.05 02-write-your-first-program.20.40.10.04]
 //     greco  [03489940240 03489900120]
 //
 //     What is Greco's second phone number?

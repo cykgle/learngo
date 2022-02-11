@@ -11,7 +11,7 @@ package main
 // ---------------------------------------------------------
 // EXERCISE: Refactor to Array Literals
 //
-//  1. Use the 02-get-set-arrays exercise
+//  1. Use the 02-write-your-first-program-get-set-arrays exercise
 //
 //  2. Refactor the array assignments to array literals
 //
@@ -21,7 +21,7 @@ package main
 //       into the array literals.
 //
 // EXPECTED OUTPUT
-//   The output should be the same as the 02-get-set-arrays exercise.
+//   The output should be the same as the 02-write-your-first-program-get-set-arrays exercise.
 // ---------------------------------------------------------
 
 func main() {

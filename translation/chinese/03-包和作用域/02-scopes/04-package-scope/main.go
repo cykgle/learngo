@@ -18,7 +18,7 @@ func main() {
 	bye()
 }
 
-// 练习: 删除下面函数的注释
+// exercises: 删除下面函数的注释
 //           分析错误信息
 
 // func bye() {

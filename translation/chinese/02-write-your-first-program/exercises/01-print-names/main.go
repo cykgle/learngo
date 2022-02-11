@@ -9,7 +9,7 @@
 package main
 
 // ---------------------------------------------------------
-// 练习: Print names
+// exercises: Print names
 //
 //  打印你和你最好朋友的名字使用
 //  Println 两次
